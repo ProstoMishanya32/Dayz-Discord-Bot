@@ -1,0 +1,801 @@
+[23-01-07 00:43:06] [client.py INFO] logging in using static token
+[23-01-07 00:43:06] [client.py INFO] Cleaning up tasks.
+[23-01-07 00:43:06] [client.py INFO] Closing the event loop.
+[23-01-07 00:44:11] [client.py INFO] logging in using static token
+[23-01-07 00:44:11] [client.py INFO] Cleaning up tasks.
+[23-01-07 00:44:11] [client.py INFO] Closing the event loop.
+[23-01-07 00:50:31] [client.py INFO] logging in using static token
+[23-01-07 00:50:31] [client.py INFO] Cleaning up tasks.
+[23-01-07 00:50:31] [client.py INFO] Closing the event loop.
+[23-01-07 00:50:41] [client.py INFO] logging in using static token
+[23-01-07 00:50:42] [client.py INFO] Cleaning up tasks.
+[23-01-07 00:50:42] [client.py INFO] Closing the event loop.
+[23-01-07 00:51:33] [client.py INFO] logging in using static token
+[23-01-07 00:51:34] [client.py INFO] Cleaning up tasks.
+[23-01-07 00:51:34] [client.py INFO] Closing the event loop.
+[23-01-07 00:52:20] [client.py INFO] logging in using static token
+[23-01-07 00:52:21] [client.py INFO] Cleaning up tasks.
+[23-01-07 00:52:21] [client.py INFO] Closing the event loop.
+[23-01-07 00:52:36] [client.py INFO] logging in using static token
+[23-01-07 00:52:37] [gateway.py INFO] Shard ID None has sent the IDENTIFY payload.
+[23-01-07 00:52:38] [gateway.py INFO] Shard ID None has connected to Gateway: ["gateway-prd-us-east1-d-147f",{"micros":212551,"calls":["id_created",{"micros":2053,"calls":[]},"session_lookup_time",{"micros":6226,"calls":[]},"session_lookup_finished",{"micros":11,"calls":[]},"discord-sessions-blue-prd-2-210",{"micros":203859,"calls":["start_session",{"micros":136827,"calls":["discord-api-6fdf57d685-8rf46",{"micros":74239,"calls":["get_user",{"micros":20765},"get_guilds",{"micros":11105},"send_scheduled_deletion_message",{"micros":12},"guild_join_requests",{"micros":129},"authorized_ip_coro",{"micros":9}]}]},"starting_guild_connect",{"micros":52,"calls":[]},"presence_started",{"micros":4158,"calls":[]},"guilds_started",{"micros":87,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":62671,"calls":[]},"connect_finished",{"micros":62676,"calls":[]},"build_ready",{"micros":31,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":1,"calls":[]},"clean_ready",{"micros":24,"calls":[]}]}]}] (Session ID: 95788f698675a45d6fc51baf845fd23f). Resume URL specified as wss://gateway-us-east1-d.discord.gg
+[23-01-07 00:58:53] [client.py INFO] Received signal to terminate bot and event loop.
+[23-01-07 00:58:53] [client.py INFO] Cleaning up tasks.
+[23-01-07 00:58:53] [client.py INFO] Cleaning up after 1 tasks.
+[23-01-07 00:58:53] [client.py INFO] All tasks finished cancelling.
+[23-01-07 00:58:53] [client.py INFO] Closing the event loop.
+[23-01-07 00:58:54] [client.py INFO] logging in using static token
+[23-01-07 00:58:56] [gateway.py INFO] Shard ID None has sent the IDENTIFY payload.
+[23-01-07 00:58:57] [gateway.py INFO] Shard ID None has connected to Gateway: ["gateway-prd-us-east1-c-8chk",{"micros":117137,"calls":["id_created",{"micros":2602,"calls":[]},"session_lookup_time",{"micros":329,"calls":[]},"session_lookup_finished",{"micros":13,"calls":[]},"discord-sessions-blue-prd-2-161",{"micros":113423,"calls":["start_session",{"micros":76826,"calls":["discord-api-b49fbb957-g25cz",{"micros":70454,"calls":["get_user",{"micros":21038},"get_guilds",{"micros":9760},"send_scheduled_deletion_message",{"micros":13},"guild_join_requests",{"micros":2},"authorized_ip_coro",{"micros":8}]}]},"starting_guild_connect",{"micros":70,"calls":[]},"presence_started",{"micros":236,"calls":[]},"guilds_started",{"micros":86,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":36155,"calls":[]},"connect_finished",{"micros":36159,"calls":[]},"build_ready",{"micros":21,"calls":[]},"optimize_ready",{"micros":0,"calls":[]},"split_ready",{"micros":1,"calls":[]},"clean_ready",{"micros":22,"calls":[]}]}]}] (Session ID: 7ef95cd89d861d64f9c818c28617a832). Resume URL specified as wss://gateway-us-east1-c.discord.gg
+[23-01-07 00:59:37] [client.py INFO] Received signal to terminate bot and event loop.
+[23-01-07 00:59:37] [client.py INFO] Cleaning up tasks.
+[23-01-07 00:59:37] [client.py INFO] Cleaning up after 1 tasks.
+[23-01-07 00:59:37] [client.py INFO] All tasks finished cancelling.
+[23-01-07 00:59:37] [client.py INFO] Closing the event loop.
+[23-01-07 01:03:44] [client.py DEBUG] on_ready has successfully been registered as an event
+[23-01-07 01:03:44] [client.py INFO] logging in using static token
+[23-01-07 01:03:44] [http.py DEBUG] GET https://discord.com/api/v10/users/@me with None has returned 200
+[23-01-07 01:03:44] [http.py DEBUG] GET https://discord.com/api/v10/users/@me has received {'id': '994688917175541780', 'username': 'TEST_JS', 'avatar': None, 'avatar_decoration': None, 'discriminator': '7840', 'public_flags': 0, 'flags': 0, 'bot': True, 'banner': None, 'banner_color': None, 'accent_color': None, 'bio': '', 'locale': 'en-US', 'mfa_enabled': False, 'premium_type': 0, 'email': None, 'verified': True}
+[23-01-07 01:03:45] [http.py DEBUG] GET https://discord.com/api/v10/gateway with None has returned 200
+[23-01-07 01:03:45] [http.py DEBUG] GET https://discord.com/api/v10/gateway has received {'url': 'wss://gateway.discord.gg'}
+[23-01-07 01:03:45] [gateway.py DEBUG] Created websocket connected to wss://gateway.discord.gg?encoding=json&v=10&compress=zlib-stream
+[23-01-07 01:03:45] [gateway.py DEBUG] For Shard ID None: WebSocket Event: {"t":null,"s":null,"op":10,"d":{"heartbeat_interval":41250,"_trace":["[\"gateway-prd-us-east1-c-kb8t\",{\"micros\":0.0}]"]}}
+[23-01-07 01:03:45] [gateway.py INFO] Shard ID None has sent the IDENTIFY payload.
+[23-01-07 01:03:45] [gateway.py DEBUG] For Shard ID None: WebSocket Event: {"t":null,"s":null,"op":11,"d":null}
+[23-01-07 01:03:46] [gateway.py DEBUG] For Shard ID None: WebSocket Event: {"t":"READY","s":1,"op":0,"d":{"v":10,"user_settings":{},"user":{"verified":true,"username":"TEST_JS","mfa_enabled":false,"id":"994688917175541780","flags":0,"email":null,"discriminator":"7840","bot":true,"avatar":null},"session_type":"normal","session_id":"46efbc46b6defc038ae6bda741ae8355","resume_gateway_url":"wss://gateway-us-east1-c.discord.gg","relationships":[],"private_channels":[],"presences":[],"guilds":[{"unavailable":true,"id":"1057047620524179556"}],"guild_join_requests":[],"geo_ordered_rtc_regions":["russia","st-pete","finland","stockholm","bucharest"],"application":{"id":"994688917175541780","flags":565248},"_trace":["[\"gateway-prd-us-east1-c-kb8t\",{\"micros\":166058,\"calls\":[\"id_created\",{\"micros\":1416,\"calls\":[]},\"session_lookup_time\",{\"micros\":358,\"calls\":[]},\"session_lookup_finished\",{\"micros\":15,\"calls\":[]},\"discord-sessions-blue-prd-2-95\",{\"micros\":163017,\"calls\":[\"start_session\",{\"micros\":123942,\"calls\":[\"discord-api-b49fbb957-sdhgn\",{\"micros\":116758,\"calls\":[\"get_user\",{\"micros\":36963},\"get_guilds\",{\"micros\":25584},\"send_scheduled_deletion_message\",{\"micros\":13},\"guild_join_requests\",{\"micros\":2},\"authorized_ip_coro\",{\"micros\":13}]}]},\"starting_guild_connect\",{\"micros\":58,\"calls\":[]},\"presence_started\",{\"micros\":1304,\"calls\":[]},\"guilds_started\",{\"micros\":130,\"calls\":[]},\"guilds_connect\",{\"micros\":1,\"calls\":[]},\"presence_connect\",{\"micros\":37522,\"calls\":[]},\"connect_finished\",{\"micros\":37528,\"calls\":[]},\"build_ready\",{\"micros\":24,\"calls\":[]},\"optimize_ready\",{\"micros\":1,\"calls\":[]},\"split_ready\",{\"micros\":1,\"calls\":[]},\"clean_ready\",{\"micros\":27,\"calls\":[]}]}]}]"]}}
+[23-01-07 01:03:46] [client.py DEBUG] Dispatching event socket_event_type
+[23-01-07 01:03:46] [gateway.py INFO] Shard ID None has connected to Gateway: ["gateway-prd-us-east1-c-kb8t",{"micros":166058,"calls":["id_created",{"micros":1416,"calls":[]},"session_lookup_time",{"micros":358,"calls":[]},"session_lookup_finished",{"micros":15,"calls":[]},"discord-sessions-blue-prd-2-95",{"micros":163017,"calls":["start_session",{"micros":123942,"calls":["discord-api-b49fbb957-sdhgn",{"micros":116758,"calls":["get_user",{"micros":36963},"get_guilds",{"micros":25584},"send_scheduled_deletion_message",{"micros":13},"guild_join_requests",{"micros":2},"authorized_ip_coro",{"micros":13}]}]},"starting_guild_connect",{"micros":58,"calls":[]},"presence_started",{"micros":1304,"calls":[]},"guilds_started",{"micros":130,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":37522,"calls":[]},"connect_finished",{"micros":37528,"calls":[]},"build_ready",{"micros":24,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":1,"calls":[]},"clean_ready",{"micros":27,"calls":[]}]}]}] (Session ID: 46efbc46b6defc038ae6bda741ae8355). Resume URL specified as wss://gateway-us-east1-c.discord.gg
+[23-01-07 01:03:46] [client.py DEBUG] Dispatching event connect
+[23-01-07 01:03:46] [state.py DEBUG] Syncing commands to None
+[23-01-07 01:03:46] [gateway.py DEBUG] For Shard ID None: WebSocket Event: {"t":"GUILD_CREATE","s":2,"op":0,"d":{"max_stage_video_channel_users":0,"public_updates_channel_id":null,"stage_instances":[],"vanity_url_code":null,"verification_level":0,"icon":null,"guild_hashes":{"version":1,"roles":{"omitted":false,"hash":"LMqhmg"},"metadata":{"omitted":false,"hash":"GQyX5g"},"channels":{"omitted":false,"hash":"Q4/y2w"}},"description":null,"channels":[{"version":1672090191815,"type":4,"position":0,"permission_overwrites":[],"name":"Голосовые каналы","id":"1057047620524179558","flags":0},{"version":1672090191827,"user_limit":0,"type":2,"rtc_region":null,"rate_limit_per_user":0,"position":0,"permission_overwrites":[],"parent_id":"1057047620524179558","name":"Основной","last_message_id":null,"id":"1057047620524179560","flags":0,"bitrate":64000},{"version":1672686913878,"type":0,"topic":null,"rate_limit_per_user":0,"position":1,"permission_overwrites":[],"name":"сюда","last_message_id":"1060694475120316510","id":"1059550395162169434","flags":0},{"version":1672686913849,"type":0,"topic":null,"rate_limit_per_user":0,"position":0,"permission_overwrites":[],"name":"отсюда","last_message_id":"1060623683053428846","id":"1059550419812102285","flags":0},{"version":1672959936527,"type":0,"topic":null,"rate_limit_per_user":0,"position":2,"permission_overwrites":[{"type":0,"id":"1057047620524179556","deny":"1024","allow":"0"},{"type":1,"id":"994688917175541780","deny":"0","allow":"1024"},{"type":1,"id":"274593117544513536","deny":"0","allow":"1024"}],"name":"test","last_message_id":"1060695615736139826","id":"1060695594345177148","flags":0}],"system_channel_id":null,"emojis":[],"id":"1057047620524179556","system_channel_flags":0,"rules_channel_id":null,"stickers":[],"afk_channel_id":null,"discovery_splash":null,"hub_type":null,"owner_id":"457475207561740290","guild_scheduled_events":[],"threads":[],"premium_tier":0,"member_count":4,"max_video_channel_users":25,"home_header":null,"safety_alerts_channel_id":null,"application_command_counts":{"1":0},"lazy":true,"features":["APPLICATION_COMMAND_PERMISSIONS_V2"],"voice_states":[],"nsfw_level":0,"application_id":null,"joined_at":"2023-01-02T18:14:20.561000+00:00","premium_progress_bar_enabled":false,"large":false,"nsfw":false,"mfa_level":0,"banner":null,"unavailable":false,"region":"deprecated","afk_timeout":300,"default_message_notifications":0,"presences":[],"roles":[{"version":1672090191808,"unicode_emoji":null,"tags":{},"position":0,"permissions":"1071698660929","name":"@everyone","mentionable":false,"managed":false,"id":"1057047620524179556","icon":null,"hoist":false,"flags":0,"color":0},{"version":1672683543843,"unicode_emoji":null,"tags":{"bot_id":"994688917175541780"},"position":2,"permissions":"8","name":"TestAlertsBot","mentionable":false,"managed":true,"id":"1059535131020370004","icon":null,"hoist":false,"flags":0,"color":0},{"version":1672683544159,"unicode_emoji":null,"tags":{},"position":1,"permissions":"1071698660929","name":"vip-подписка","mentionable":false,"managed":false,"id":"1059536277168459816","icon":null,"hoist":false,"flags":0,"color":15277667}],"splash":null,"explicit_content_filter":0,"max_members":500000,"name":"Сервер Mishanya","preferred_locale":"en-US","members":[{"user":{"username":"TEST_JS","public_flags":0,"id":"994688917175541780","discriminator":"7840","bot":true,"avatar_decoration":null,"avatar":null},"roles":["1059535131020370004"],"premium_since":null,"pending":false,"nick":null,"mute":false,"joined_at":"2023-01-02T18:14:20.561000+00:00","flags":0,"deaf":false,"communication_disabled_until":null,"avatar":null}],"embedded_activities":[],"premium_subscription_count":0}}
+[23-01-07 01:03:46] [client.py DEBUG] Dispatching event socket_event_type
+[23-01-07 01:03:46] [client.py DEBUG] Dispatching event guild_available
+[23-01-07 01:03:46] [client.py DEBUG] nextcord.Client: No locally added commands explicitly registered for Guild(id=1057047620524179556, name=Сервер Mishanya), not checking.
+[23-01-07 01:03:46] [http.py DEBUG] GET https://discord.com/api/v10/applications/994688917175541780/commands with None has returned 200
+[23-01-07 01:03:46] [http.py DEBUG] GET https://discord.com/api/v10/applications/994688917175541780/commands has received []
+[23-01-07 01:03:46] [http.py DEBUG] GET https://discord.com/api/v10/applications/994688917175541780/commands with None has returned 200
+[23-01-07 01:03:46] [http.py DEBUG] GET https://discord.com/api/v10/applications/994688917175541780/commands has received []
+[23-01-07 01:03:47] [http.py DEBUG] GET https://discord.com/api/v10/applications/994688917175541780/commands with None has returned 200
+[23-01-07 01:03:47] [http.py DEBUG] GET https://discord.com/api/v10/applications/994688917175541780/commands has received []
+[23-01-07 01:03:47] [state.py DEBUG] Command sync with Guild None finished.
+[23-01-07 01:03:48] [client.py DEBUG] Dispatching event ready
+[23-01-07 01:03:58] [client.py INFO] Received signal to terminate bot and event loop.
+[23-01-07 01:03:58] [client.py INFO] Cleaning up tasks.
+[23-01-07 01:03:58] [client.py INFO] Cleaning up after 1 tasks.
+[23-01-07 01:03:58] [client.py DEBUG] Dispatching event close
+[23-01-07 01:03:58] [client.py INFO] All tasks finished cancelling.
+[23-01-07 01:03:58] [client.py INFO] Closing the event loop.
+[23-01-07 02:06:56] [client.py INFO] logging in using static token
+[23-01-07 02:06:58] [gateway.py INFO] Shard ID None has sent the IDENTIFY payload.
+[23-01-07 02:06:58] [gateway.py INFO] Shard ID None has connected to Gateway: ["gateway-prd-us-east1-d-7lzr",{"micros":169026,"calls":["id_created",{"micros":1422,"calls":[]},"session_lookup_time",{"micros":4499,"calls":[]},"session_lookup_finished",{"micros":14,"calls":[]},"discord-sessions-blue-prd-2-144",{"micros":156114,"calls":["start_session",{"micros":77161,"calls":["discord-api-b49fbb957-g6mhx",{"micros":70342,"calls":["get_user",{"micros":15177},"get_guilds",{"micros":9309},"send_scheduled_deletion_message",{"micros":11},"guild_join_requests",{"micros":157},"authorized_ip_coro",{"micros":9}]}]},"starting_guild_connect",{"micros":61,"calls":[]},"presence_started",{"micros":23099,"calls":[]},"guilds_started",{"micros":85,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":55666,"calls":[]},"connect_finished",{"micros":55669,"calls":[]},"build_ready",{"micros":18,"calls":[]},"optimize_ready",{"micros":1,"calls":[]},"split_ready",{"micros":0,"calls":[]},"clean_ready",{"micros":19,"calls":[]}]}]}] (Session ID: b05e6a9c15c9b4489f68d4f1465387e7). Resume URL specified as wss://gateway-us-east1-d.discord.gg
+[23-01-07 02:11:00] [client.py INFO] Received signal to terminate bot and event loop.
+[23-01-07 02:11:00] [client.py INFO] Cleaning up tasks.
+[23-01-07 02:11:00] [client.py INFO] Cleaning up after 1 tasks.
+[23-01-07 02:11:00] [client.py INFO] All tasks finished cancelling.
+[23-01-07 02:11:00] [client.py INFO] Closing the event loop.
+[23-01-14 19:56:08] [client.py ERROR] Attempting a reconnect in 1.11s
+Traceback (most recent call last):
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 1152, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 860, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11004] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\client.py", line 708, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 445, in wait_for
+    return fut.result()
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\gateway.py", line 365, in from_client
+    socket = await client.http.ws_connect(gateway)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\http.py", line 250, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 1166, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+[23-01-14 19:56:09] [client.py ERROR] Attempting a reconnect in 1.79s
+Traceback (most recent call last):
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 1152, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 860, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11004] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\client.py", line 708, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 445, in wait_for
+    return fut.result()
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\gateway.py", line 365, in from_client
+    socket = await client.http.ws_connect(gateway)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\http.py", line 250, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 1166, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+[23-01-14 19:56:11] [client.py ERROR] Attempting a reconnect in 1.56s
+Traceback (most recent call last):
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 1152, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 860, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11004] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\client.py", line 708, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 445, in wait_for
+    return fut.result()
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\gateway.py", line 365, in from_client
+    socket = await client.http.ws_connect(gateway)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\http.py", line 250, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 1166, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+[23-01-14 19:56:13] [client.py ERROR] Attempting a reconnect in 5.81s
+Traceback (most recent call last):
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 1152, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 860, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11004] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\client.py", line 708, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 445, in wait_for
+    return fut.result()
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\gateway.py", line 365, in from_client
+    socket = await client.http.ws_connect(gateway)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\http.py", line 250, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 1166, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+[23-01-14 19:56:19] [client.py ERROR] Attempting a reconnect in 19.87s
+Traceback (most recent call last):
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 1152, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 860, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\client.py", line 708, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 445, in wait_for
+    return fut.result()
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\gateway.py", line 365, in from_client
+    socket = await client.http.ws_connect(gateway)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\http.py", line 250, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 1166, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+[23-01-14 19:56:39] [client.py ERROR] Attempting a reconnect in 7.45s
+Traceback (most recent call last):
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 1152, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 860, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11004] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\client.py", line 708, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 445, in wait_for
+    return fut.result()
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\gateway.py", line 365, in from_client
+    socket = await client.http.ws_connect(gateway)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\http.py", line 250, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 1166, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+[23-01-14 19:56:58] [client.py ERROR] Attempting a reconnect in 107.59s
+Traceback (most recent call last):
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 1152, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 860, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\client.py", line 708, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 445, in wait_for
+    return fut.result()
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\gateway.py", line 365, in from_client
+    socket = await client.http.ws_connect(gateway)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\http.py", line 250, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 1166, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+[23-01-14 19:58:45] [client.py ERROR] Attempting a reconnect in 94.69s
+Traceback (most recent call last):
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 1152, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 860, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11004] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\client.py", line 708, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 445, in wait_for
+    return fut.result()
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\gateway.py", line 365, in from_client
+    socket = await client.http.ws_connect(gateway)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\http.py", line 250, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 1166, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+[23-01-14 20:00:20] [client.py ERROR] Attempting a reconnect in 503.43s
+Traceback (most recent call last):
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 1152, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 860, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11004] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\client.py", line 708, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 445, in wait_for
+    return fut.result()
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\gateway.py", line 365, in from_client
+    socket = await client.http.ws_connect(gateway)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\http.py", line 250, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 1166, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+[23-01-14 20:08:43] [client.py ERROR] Attempting a reconnect in 530.71s
+Traceback (most recent call last):
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 1152, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 860, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11004] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\client.py", line 708, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 445, in wait_for
+    return fut.result()
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\gateway.py", line 365, in from_client
+    socket = await client.http.ws_connect(gateway)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\http.py", line 250, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 1166, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-b.discord.gg:443 ssl:default [getaddrinfo failed]
+[23-01-14 22:01:20] [gateway.py WARNING] Can't keep up, shard ID None websocket is 10.1s behind.
+[23-01-14 22:02:06] [gateway.py WARNING] Can't keep up, shard ID None websocket is 14.5s behind.
+[23-01-14 22:07:25] [client.py ERROR] Attempting a reconnect in 0.81s
+Traceback (most recent call last):
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 1152, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 860, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\client.py", line 708, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 445, in wait_for
+    return fut.result()
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\gateway.py", line 365, in from_client
+    socket = await client.http.ws_connect(gateway)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\http.py", line 250, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 1166, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-c.discord.gg:443 ssl:default [getaddrinfo failed]
+[23-01-14 22:07:26] [client.py ERROR] Attempting a reconnect in 2.80s
+Traceback (most recent call last):
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 1152, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 860, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11004] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\client.py", line 708, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 445, in wait_for
+    return fut.result()
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\gateway.py", line 365, in from_client
+    socket = await client.http.ws_connect(gateway)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\http.py", line 250, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 1166, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-c.discord.gg:443 ssl:default [getaddrinfo failed]
+[23-01-14 22:07:29] [client.py ERROR] Attempting a reconnect in 4.17s
+Traceback (most recent call last):
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 1152, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 860, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11004] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\client.py", line 708, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 445, in wait_for
+    return fut.result()
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\gateway.py", line 365, in from_client
+    socket = await client.http.ws_connect(gateway)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\http.py", line 250, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 1166, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-c.discord.gg:443 ssl:default [getaddrinfo failed]
+[23-01-14 22:07:33] [client.py ERROR] Attempting a reconnect in 1.72s
+Traceback (most recent call last):
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 1152, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 860, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11004] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\client.py", line 708, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 445, in wait_for
+    return fut.result()
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\gateway.py", line 365, in from_client
+    socket = await client.http.ws_connect(gateway)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\http.py", line 250, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 1166, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-c.discord.gg:443 ssl:default [getaddrinfo failed]
+[23-01-14 22:07:35] [client.py ERROR] Attempting a reconnect in 25.64s
+Traceback (most recent call last):
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 1152, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 860, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11004] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\client.py", line 708, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 445, in wait_for
+    return fut.result()
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\gateway.py", line 365, in from_client
+    socket = await client.http.ws_connect(gateway)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\http.py", line 250, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 1166, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-c.discord.gg:443 ssl:default [getaddrinfo failed]
+[23-01-14 22:08:00] [client.py ERROR] Attempting a reconnect in 44.79s
+Traceback (most recent call last):
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 1152, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 860, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11004] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\client.py", line 708, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 445, in wait_for
+    return fut.result()
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\gateway.py", line 365, in from_client
+    socket = await client.http.ws_connect(gateway)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\http.py", line 250, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 1166, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-c.discord.gg:443 ssl:default [getaddrinfo failed]
+[23-01-14 22:08:45] [client.py ERROR] Attempting a reconnect in 120.81s
+Traceback (most recent call last):
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 1152, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 860, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11004] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\client.py", line 708, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 445, in wait_for
+    return fut.result()
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\gateway.py", line 365, in from_client
+    socket = await client.http.ws_connect(gateway)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\http.py", line 250, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 1166, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-c.discord.gg:443 ssl:default [getaddrinfo failed]
+[23-01-14 22:10:46] [client.py ERROR] Attempting a reconnect in 133.27s
+Traceback (most recent call last):
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 1152, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 860, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11004] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\client.py", line 708, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 445, in wait_for
+    return fut.result()
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\gateway.py", line 365, in from_client
+    socket = await client.http.ws_connect(gateway)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\http.py", line 250, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 1166, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-c.discord.gg:443 ssl:default [getaddrinfo failed]
+[23-01-14 22:12:59] [client.py ERROR] Attempting a reconnect in 386.21s
+Traceback (most recent call last):
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 1152, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 874, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 860, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11004] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\client.py", line 708, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\Михаил\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py", line 445, in wait_for
+    return fut.result()
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\gateway.py", line 365, in from_client
+    socket = await client.http.ws_connect(gateway)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\nextcord\http.py", line 250, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\client.py", line 779, in _ws_connect
+    resp = await self.request(
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\client.py", line 536, in _request
+    conn = await self._connector.connect(
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 540, in connect
+    proto = await self._create_connection(req, traces, timeout)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 901, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+  File "C:\Users\Михаил\PycharmProjects\discordbot_dayz\venv\lib\site-packages\aiohttp\connector.py", line 1166, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host gateway-us-east1-c.discord.gg:443 ssl:default [getaddrinfo failed]
+[23-01-15 23:59:41] [gateway.py WARNING] Can't keep up, shard ID None websocket is 11.9s behind.
+[23-01-19 21:36:09] [gateway.py WARNING] Can't keep up, shard ID None websocket is 12.0s behind.
